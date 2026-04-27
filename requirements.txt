@@ -4,3 +4,4 @@ plotly
 scikit-learn
 supabase
 numpy>=1.26
+python-dotenv
