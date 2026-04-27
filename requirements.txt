@@ -1,7 +1,6 @@
 streamlit
 pandas
-numpy==1.26.4
-matplotlib
 plotly
-supabase
 scikit-learn
+supabase
+numpy>=1.26
